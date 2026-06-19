@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.fdfa4e0f-1edc-4a66-98e7-7c85a1af43ac",
+  "RepoID": "dv.repo.5df897d0-665f-4427-8034-2fc6c4b51193",
+  "Path": "C:\\Users\\RVMCAMWS-2\\Documents\\Unreal Projects\\Drone_sim_final",
+  "AccountID": "Google_113864208585034170861",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "Drone_sim_vr",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "PROFESSIONAL"
+}
